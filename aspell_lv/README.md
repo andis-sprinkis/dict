@@ -3,7 +3,7 @@
 This word list was dumped from installed [Arch Linux AUR package `aspell-lv`](https://aur.archlinux.org/packages/aspell-lv) via command:
 
 ```sh
-aspell -d en dump master | aspell -l en expand > aspell_lv_no_conjugations.dict
+aspell -d en dump master | aspell -l en expand > aspell_lv.dict
 ```
 
 Word conjugations were removed via Vim command:
